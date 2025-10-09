@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Gudtrip Documentation",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#719BB2",
+    "light": "#85B7D2",
+    "dark": "#5B7E91"
   },
   "favicon": "/logo/GudtripG.svg",
   "navigation": {
