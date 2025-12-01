@@ -39,16 +39,7 @@
     ],
     "global": {
       "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://whitepaper.gudtrip.xyz/",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Community",
-          "href": "https://x.com/GudtripOfficial",
-          "icon": "twitter"
-        }
+        
       ]
     }
   },
